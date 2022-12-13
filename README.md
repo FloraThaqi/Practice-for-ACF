@@ -1,2 +1,2 @@
 # Practice-for-ACF
-Practice for advanced custom fields (ACF)
+Practice for advanced custom fields (ACF) in Wordpress.
